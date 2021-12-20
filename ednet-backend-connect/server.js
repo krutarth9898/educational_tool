@@ -122,7 +122,6 @@ app.get("/GetProject", (req, res) => {
 });
 
 
-// ------------ved end point------------------------------------------------
 
 
 const upload = multer({
